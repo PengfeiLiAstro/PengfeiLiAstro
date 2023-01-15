@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pengfei Li, a graduate student in astronomy.
-- 👀 I’m most interested in galaxy formation.
+- 👋 Hi, I’m Pengfei Li, a graduate student in astronomy at University of Utah.
+- 👀 I’m most interested in galaxy formation and cosmology.
 - 📫 My email is Pengfei.Li@utah.edu
 
 <!---
